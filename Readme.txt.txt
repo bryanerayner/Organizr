@@ -1,0 +1,1 @@
+Organizr is a cross language algorithm for finding relationships & groupings in plain text data. 
